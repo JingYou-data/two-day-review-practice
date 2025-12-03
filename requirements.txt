@@ -1,0 +1,7 @@
+python-dotenv
+requests
+pandas
+psycopg2-binary
+boto3
+minio
+pymssql
